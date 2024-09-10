@@ -1,4 +1,4 @@
-FROM ruby:2.4.1-alpine
+FROM ruby:3.1
 
 RUN mkdir /fakes3
 RUN mkdir /fakes3/data
